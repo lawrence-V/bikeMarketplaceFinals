@@ -1,2 +1,0 @@
-# bikeMarketplaceFinals
-group project 
